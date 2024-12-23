@@ -1,5 +1,6 @@
 ## Hello there 👋 
 This is my personal repository.
+I have just created my first branch. 
 <!--
 **soozinator/soozinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
